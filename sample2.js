@@ -1,0 +1,12 @@
+var price1=29;
+var price2=67;
+var total=price1+price2;
+var sub=price1-price2;
+var mul=price1*price2;
+console.log(price1);
+console.log(price2);
+console.log(total);
+console.log(sub);
+console.log(mul);
+var div=(price2%price1);
+console.log(div);

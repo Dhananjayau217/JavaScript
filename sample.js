@@ -1,0 +1,12 @@
+var a=3;
+var b="Dhana";
+var c='D';
+var d=3.5874938;
+var e=[3,"Dhana",'D',3.5,30,{b:"Dhana"},[],{}];
+var f={b:"Dhana"};
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(c));
+console.log(typeof(d));
+console.log(typeof(e));
+console.log(typeof(f));

@@ -1,0 +1,13 @@
+const price1=50;
+var price2;
+let total=price1+price2;
+var sub=price1-price2;
+let mul=price1*price2;
+// console.log(price1);
+// console.log(price2);
+// console.log(total);
+// console.log(sub);
+// console.log(mul);
+// var div=(price2%price1);
+// console.log(div);
+console.log(typeof(price2));

@@ -1,0 +1,12 @@
+var a=3;
+var b="Dhana";
+var c='D';
+var d=3.5889;
+var e=[3,"Dhana",'D',3.5,30,{b:"Dhana"},[],{}];
+var f={b:"Dhana"};
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+console.log(f);
